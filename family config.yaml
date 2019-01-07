@@ -1,0 +1,75 @@
+name: Nova Esports Brawl Stars Family
+authorization: brawlstats.io_authentication_key
+color: purple
+emblem: A_Char_Rocket_02
+logo_url: https://raw.githubusercontent.com/smlbiobot/racf-discord-doc/master/docs/img/racf/racf-logo-bg-red.png
+bands:
+  - name: Nova Esports
+    tag: Q2LUQ0P
+  - name: Nova Ash
+    tag: QY9CL9L
+  - name: Nova Aries
+    tag: L0UQ89Q
+  - name: Nova Hispania
+    tag: QYGG82J
+  - name: Nova FrenchArmy
+    tag: Q2CL0LU
+  - name: Nova Prime
+    tag: QYQUPVC
+  - name: Nova Hydra
+    tag: LJVUVLG
+  - name: Nova Max
+    tag: QYG8298
+  - name: Nova Rey
+    tag: QPQR8C
+  - name: Nova Coop
+    tag: QYLC9YQ
+  - name: Nova Shadow
+    tag: QYGCVRL
+  - name: Nova Aus
+    tag: QYCLGVC
+  - name: Nova Ark
+    tag: QYRVV0Y
+  - name: Nova Ethereal
+    tag: QYP809L
+  - name: Nova Legends
+    tag: QYV8GR9
+  - name: Nova Blitz
+    tag: QYVRGGG
+  - name: Nova Iran
+    tag: J09GPR9
+  - name: Nova Nest
+    tag: RCQVLVJ
+  - name: Nova Jokers
+    tag: JJY8JLP
+  - name: Nova JPN
+    tag: C98JJU0
+  - name: Nova Asia
+    tag: CP8RLJY
+  - name: Nova Capital
+    tag: C8YYC99
+  - name: Nova Persia
+    tag: CL8LQ9C
+  - name: Nova Epix
+    tag: V88LGG0
+  - name: Nova CHN
+    tag: 20GJJGJP
+  - name: Nova USA
+    tag: 20GUYP2J
+  - name: Nova MEX
+    tag: 20R0JRJ0
+  - name: Nova USA 2
+    tag: 228JCY8G
+  - name: Nova MEX 2
+    tag: 2298R8R9
+  - name: Nova Leo
+    tag: L20Y00R
+  - name: Nova KOR
+    tag: 88RL2LP
+  - name: Nova Poseidon
+    tag: 2G9UC0P2
+  - name: Nova DE
+    tag: 20R99RQ9
+  - name: Nova Portugal
+    tag: V0C8GR8
+    
