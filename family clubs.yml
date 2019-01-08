@@ -1,0 +1,143 @@
+servers:
+  - name: Nova Esports Brawl Stars
+    id: 370168040220000256
+    clubs:
+      - name: Nova Esports
+        tag: Q2LUQ0P
+        roles:
+          - Nova Esports
+      - name: Nova Ash
+        tag: QY9CL9L
+        roles:
+          - Nova Ash
+      - name: Nova Aries
+        tag: L0UQ89Q
+        roles:
+          - Nova Aries
+      - name: Nova Hispania
+        tag: QYGG82J
+        roles:
+          - Nova Hispania
+      - name: Nova FrenchArmy
+        tag: Q2CL0LU
+        roles:
+          - Nova FrenchArmy
+      - name: Nova Prime
+        tag: QYQUPVC
+        roles:
+          - Nova Prime
+      - name: Nova Hydra
+        tag: LJVUVLG
+        roles:
+          - Nova Hydra
+      - name: Nova Max
+        tag: QYG8298
+        roles:
+          - Nova Max
+      - name: Nova Rey
+        tag: QPQR8C
+        roles:
+          - Nova Rey 
+      - name: Nova Coop
+        tag: QYLC9YQ
+        roles:
+          - Nova Coop
+      - name: Nova Shadow
+        tag: QYGCVRL
+        roles:
+          - Nova Shadow 
+      - name: Nova Aus
+        tag: QYCLGVC
+        roles:
+          - Nova Aus 
+      - name: Nova Ark
+        tag: QYRVV0Y
+        roles:
+          - Nova Ark 
+      - name: Nova Ethereal
+        tag: QYP809L
+        roles:
+          - Nova Ethereal 
+      - name: Nova Legends
+        tag: QYV8GR9
+        roles:
+          - Nova Legends 
+      - name: Nova Blitz
+        tag: QYVRGGG
+        roles:
+          - Nova Blitz
+      - name: Nova Iran
+        tag: J09GPR9
+        roles:
+          - Nova Iran 
+      - name: Nova Nest
+        tag: RCQVLVJ
+        roles:
+          - Nova Nest 
+      - name: Nova Jokers
+        tag: JJY8JLP
+        roles:
+          - Nova Jokers 
+      - name: Nova JPN
+        tag: C98JJU0
+        roles:
+          - Nova JPN 
+      - name: Nova Asia
+        tag: CP8RLJY
+        roles:
+          - Nova Asia 
+      - name: Nova Capital 
+        tag: C8YYC99
+        roles:
+          - Nova Capital
+      - name: Persia
+        tag: CL8LQ9C
+        roles:
+          - Nova Persia 
+      - name: Nova Epix
+        tag: V88LGG0
+        roles:
+          - Nova Epix 
+	  - name: Nova CHN
+        tag: 20GJJGJP
+        roles:
+          - Nova CHN
+	  - name: Nova MEX
+        tag: 20R0JRJ0
+        roles:
+          - Nova MEX
+	  - name: Nova USA 2
+        tag: 228JCY8G
+        roles:
+          - Nova USA 2
+	  - name: Nova MEX 2
+        tag: 2298R8R9
+        roles:
+          - Nova MEX 2
+	  - name: Nova Leo
+        tag: L20Y00R
+        roles:
+          - Nova Leo
+	  - name: Nova KOR
+        tag: 88RL2LP
+        roles:
+          - Nova KOR 
+	  - name: Nova Poseidon
+        tag: 2G9UC0P2
+        roles:
+          - Nova Poseidon
+	  - name: Nova DE
+        tag: 20R99RQ9
+        roles:
+           - Nova DE 
+	  - name: Nova Portugal
+        tag: V0C8GR8
+        roles:
+          - Nova Portugal
+    everyone_roles:
+      - Newcomer
+    member_roles:
+      - NovaBS
+    visitor_roles:
+      - Visitor
+  
